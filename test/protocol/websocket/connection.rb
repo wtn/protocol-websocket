@@ -3,6 +3,7 @@
 # Released under the MIT License.
 # Copyright, 2019-2026, by Samuel Williams.
 # Copyright, 2019, by Soumya.
+# Copyright, 2026, by William T. Nelson.
 
 require "socket"
 require "securerandom"

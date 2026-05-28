@@ -1,8 +1,9 @@
 # frozen_string_literal: true
 
 # Released under the MIT License.
-# Copyright, 2023-2025, by Samuel Williams.
+# Copyright, 2023-2026, by Samuel Williams.
 # Copyright, 2025, by Taleh Zaliyev.
+# Copyright, 2026, by William T. Nelson.
 
 require "protocol/websocket/frame"
 

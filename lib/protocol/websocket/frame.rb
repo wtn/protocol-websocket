@@ -5,6 +5,7 @@
 # Copyright, 2019, by Soumya.
 # Copyright, 2021, by Aurora Nockert.
 # Copyright, 2025, by Taleh Zaliyev.
+# Copyright, 2026, by William T. Nelson.
 
 require_relative "error"
 

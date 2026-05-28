@@ -16,13 +16,17 @@ group :maintenance, optional: true do
 	
 	gem "agent-context"
 	
+	gem "decode"
+	
 	gem "utopia-project"
 end
 
 group :test do
 	gem "sus"
 	gem "covered"
-	gem "decode"
+	gem "falcon"
+	gem "async-websocket"
+	gem "async-http"
 	
 	gem "rubocop"
 	gem "rubocop-md"
@@ -33,9 +37,4 @@ group :test do
 	
 	gem "bake-test"
 	gem "bake-test-external"
-	
-	# Used for autobahn tests.
-	gem "falcon"
-	gem "async-websocket"
-	gem "async-http"
 end

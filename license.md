@@ -2,7 +2,7 @@
 
 Copyright, 2019-2026, by Samuel Williams.  
 Copyright, 2019, by Soumya.  
-Copyright, 2019, by William T. Nelson.  
+Copyright, 2019-2026, by William T. Nelson.  
 Copyright, 2020, by Olle Jonsson.  
 Copyright, 2021, by Aurora Nockert.  
 Copyright, 2025, by Taleh Zaliyev.  
