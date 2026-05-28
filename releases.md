@@ -1,6 +1,6 @@
 # Releases
 
-## Unreleased
+## v0.21.1
 
   - If `Connection#close_write` fails, the connection will now be fully closed to prevent hanging connections.
 

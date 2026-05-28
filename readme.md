@@ -16,6 +16,10 @@ Please see the [project documentation](https://socketry.github.io/protocol-webso
 
 Please see the [project releases](https://socketry.github.io/protocol-websocket/releases/index) for all releases.
 
+### v0.21.1
+
+  - If `Connection#close_write` fails, the connection will now be fully closed to prevent hanging connections.
+
 ### v0.21.0
 
   - All frame reading and writing logic has been consolidated into `Framer` to improve performance.
@@ -53,10 +57,6 @@ Please see the [project releases](https://socketry.github.io/protocol-websocket/
 
   - Move `#send` logic into `Message` for better encapsulation.
   - Improve error handling when a `nil` message is passed.
-
-### v0.15.0
-
-  - Require `Message` class by default.
 
 ## Contributing
 
